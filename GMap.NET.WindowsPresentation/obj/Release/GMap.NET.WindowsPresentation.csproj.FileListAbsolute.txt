@@ -1,0 +1,9 @@
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\bin\Release\GMap.NET.WindowsPresentation.XML
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\bin\Release\GMap.NET.Core.dll
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\obj\Release\GMap.NET.WindowsPresentation.csprojResolveAssemblyReference.cache
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\obj\Release\GMap.NET.WindowsPresentation\TilePrefetcher.baml
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\obj\Release\GMap.NET.WindowsPresentation\TilePrefetcher.g.cs
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\obj\Release\GMap.NET.WindowsPresentation_MarkupCompile.cache
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\obj\Release\GMap.NET.WindowsPresentation.g.resources
+C:\Users\Kirschenmann\Documents\Visual Studio 2015\Projects\GMap\GMap.NET.WindowsPresentation\obj\Release\GMap.NET.WindowsPresentation.dll
